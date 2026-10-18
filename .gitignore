@@ -1,0 +1,19 @@
+# Node dependencies
+node_modules/
+frontend/node_modules/
+
+# Hardhat build artifacts & cache
+cache/
+artifacts/
+
+# Frontend build outputs
+frontend/dist/
+
+# Environment files
+.env
+.env.local
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

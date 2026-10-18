@@ -1,0 +1,60 @@
+{
+  "network": "localhost",
+  "chainId": 31337,
+  "contracts": {
+    "USDC": {
+      "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3"
+    },
+    "WETH": {
+      "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512"
+    },
+    "WBTC": {
+      "address": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+    },
+    "ETHPriceFeed": {
+      "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9"
+    },
+    "BTCPriceFeed": {
+      "address": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9"
+    },
+    "DGFVault": {
+      "address": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707"
+    },
+    "CCFVault": {
+      "address": "0x0165878A594ca255338adfa4d48449f69242Eb8F"
+    },
+    "CBIFVault": {
+      "address": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853"
+    },
+    "HYAFVault": {
+      "address": "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6"
+    },
+    "DMFToken": {
+      "address": "0x8A791620dd6260079BF849Dc5567aDC3F2FdC318"
+    },
+    "MutualFundDEX": {
+      "address": "0x610178dA211FEF7D417bC0e6FeD39F05609AD788"
+    },
+    "LPToken": {
+      "address": "0x6F1216D1BFe15c98520CA1434FC1d9D57AC95321"
+    },
+    "YieldFarmingVault": {
+      "address": "0xB7f8BC63BbcaD18155201308C8f3540b07f84F5e"
+    },
+    "FundGovernance": {
+      "address": "0x0DCd1Bf9A1b36cE34237eEaFef220932846BCD82"
+    },
+    "FlashLoanPool": {
+      "address": "0x0B306BF915C4d645ff596e518fAf3F9669b97016"
+    },
+    "VulnerableDAO": {
+      "address": "0x959922bE3CAee4b8Cd9a407cc3ac1C251C2007B1"
+    },
+    "SecureDAO": {
+      "address": "0x9A9f2CCfdE556A7E9Ff0848998Aa4a0CFD8863AE"
+    },
+    "FlashLoanAttacker": {
+      "address": "0x68B1D87F95878fE05B998F19b66F4baba5De1aed"
+    }
+  }
+}
